@@ -133,11 +133,21 @@ button,
 }
 
 .quote {
+    padding: 50px 0;
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
 }
 
 .main-quote {
     font-size: 36px;
     font-style: italic;
-    font-weight: 100;
+    text-align: left;
+    padding: 0 600px;
+}
+
+.author {
+    align-self: flex-end;
+    padding-right: 650px;
+    font-weight: 800;
 }
