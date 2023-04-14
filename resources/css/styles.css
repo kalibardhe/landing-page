@@ -39,12 +39,32 @@ ul {
 .hero {
     display: flex;
     flex-direction: column;
+    padding-bottom: 50px;
 }
 
 .hero-primary {
+    max-width: 400px;
     font-size: 48px;
     font-weight: 900;
     color: #f9faf8;
+}
+
+#first {
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+    align-self: flex-start;
+    color: #E5E7EB;
+    border: 1px solid black;
+}
+
+img {
+    align-self: flex-end;
+    justify-content: center;
+}
+
+.hero-secondary {
+    max-width: 400px;
 }
 
 .hero-secondary,
