@@ -7,6 +7,12 @@
 }
 
 .logo {
-    size: 24px;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.hero-primary {
+    font-size: 48px;
+    font-weight: 900;
     color: #f9faf8;
 }
