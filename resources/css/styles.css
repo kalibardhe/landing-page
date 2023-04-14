@@ -34,9 +34,14 @@ ul {
 }
 
 .hero-primary {
+    padding-left: 200px;
     font-size: 48px;
     font-weight: 900;
     color: #f9faf8;
+}
+
+.hero-secondary {
+    padding-left: 200px;
 }
 
 .hero-secondary,
