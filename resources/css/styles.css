@@ -31,3 +31,9 @@ button,
 .action-box {
     background-color: #3882f6;
 }
+
+.information-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
