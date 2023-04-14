@@ -26,3 +26,8 @@
 footer {
     background-color: #1f2937;
 }
+
+button,
+.action-box {
+    background-color: #3882f6;
+}
