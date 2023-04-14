@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 .top {
     background-color: #1f2937;
 }
